@@ -1,0 +1,18 @@
+body{
+background-color: white;
+}
+
+.headreceipe{
+    background-color: #ff3f34 ; 
+    text-align: center;
+    color: white;
+    padding: 50px 0px;
+}
+.material-icons{
+    font-size: 150px;
+}
+.serachbar{
+    width: 50%;
+    height: 20px;
+    margin-left: 505; 
+    }
